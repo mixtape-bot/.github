@@ -1,7 +1,8 @@
 <div>
-<img alt="mixtape banner" src="https://i.imgur.com/EQBgxnk.png" height="75%" width="75%" align="center" />
+<img alt="mixtape banner" src="https://i.imgur.com/flq9mmd.png" align="center" />
 </div>
 
+---
 
 Mixtape is a discord music bot that plays high-quality music from YouTube, Spotify, Apple Music, Deezer, and SoundCloud.
 
