@@ -4,7 +4,7 @@
 
 ---
 
-Mixtape is a discord music bot that plays high-quality music from YouTube, Spotify, Apple Music, Deezer, and SoundCloud.
+Mixtape is the perfect discord bot to play your favorite tunes.
 
 ## Organization
 
