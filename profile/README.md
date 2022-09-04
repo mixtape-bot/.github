@@ -11,9 +11,7 @@ Mixtape is the perfect discord bot to play your favorite tunes.
 This is an organization for many of the internal libraries we use, open source or not.  
 A few of these are meant for public use so they will get support, and others not so much.
 
-- [**Main Server:**](https://discord.gg/TUYc4nn
-) The main (support) server for Mixtape
-- [**Development Server:**](https://discord.gg/Vkbmb8kuH4) A server mainly meant for development related things (where you'd get support for our projects).
+- [**Dimensional Fun #mixtape**](https://discord.gg/rqH4Qdx7qv) A server mainly meant for everything [Dimensional Fun](https://www.dimensional.fun/) but is where Mixtape support is held.
 
 ## OSS Forks
 
