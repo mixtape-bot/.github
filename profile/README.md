@@ -3,7 +3,7 @@
 In case you haven't noticed, Mixtape has been offline for 2 months. This isn't due to any concerns with playing YouTube but instead a result of the primary
 owner's Discord Account being compromised.
 
-If you are still in our old Support Server please leave it and join our the [**Dimensional Fun**](https://discord.gg/8R4d8RydT4) server where you can get in contact with us and have a chance to try out our new Bot.
+If you are still in our old Support Server please leave it and join [**Dimensional Fun**](https://discord.gg/8R4d8RydT4), a place where you can get in contact with us and have a chance to try out our new Bot when it's done :)
 
 We hope you enjoyed the bot while it lasted!
 
