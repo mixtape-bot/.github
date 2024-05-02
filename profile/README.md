@@ -7,13 +7,6 @@ If you are still in our old Support Server please leave it and join [**Dimension
 
 We hope you enjoyed the bot while it lasted!
 
-## Warning
-
-As mentioned, the Discord account that owns the verified Mixtape application is compromised. Do NOT interact with it and in case it interacts with you
-ignore it and send screenshots in the aforementioned **Dimensional Fun** Discord Server.
-
-Our domain also expires by the end of the month (**Oct. 31, 2022**).
-
 ---
 
 You can kick it btw ;) 
@@ -21,6 +14,14 @@ You can kick it btw ;)
 [**Dimensional Fun**](https://dimensional.fun) &copy; 2019 - 2022
 
 <!--
+
+## Warning
+
+As mentioned, the Discord account that owns the verified Mixtape application is compromised. Do NOT interact with it and in case it interacts with you
+ignore it and send screenshots in the aforementioned **Dimensional Fun** Discord Server.
+
+Our domain also expires by the end of the month (**Oct. 31, 2022**).
+
 <div>
 <img alt="mixtape banner" src="https://i.imgur.com/flq9mmd.png" align="center" />
 </div>
